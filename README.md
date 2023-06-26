@@ -5,5 +5,20 @@ Json файл содержит выгрузку объявлений с сайт
 
 File: dataset-avito-apartments.json
 
-Столбцы
-|name|currency|price|apartment|rooms|area|floor|total_floor|address|description|metro|distance_to_metro|seller_name|seller_pub|advert|
+| column | Description |
+| --- | --- |
+|name|Заголовок объявления|
+|currency|Валюта в которой указана цена|
+|price|Цена квартиры|
+|apartment|Краткое описание квартиры|
+|rooms|Количество комнат|
+|area|Площадь квартиры|
+|floor|Этаж|
+|total_floor|Всего этажей в доме|
+|address|Адрес дома|
+|description|Описание|
+|metro|Ближайшее метро|
+|distance_to_metro|Расстояние до метро|
+|seller_name|Имя продавца (или агенства)|
+|seller_pub|Количество публикаций продавца|
+|advert|Признак рекламного баннера|
