@@ -5,6 +5,7 @@ Json файл содержит выгрузку объявлений с сайт
 
 Данный датасет может быть полезен для тренировки по дата анализу.
 
+Date release: 06.2023
 File: dataset-avito-apartments.json
 
 | column | Description |
