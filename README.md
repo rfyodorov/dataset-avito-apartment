@@ -11,7 +11,7 @@ File: dataset-avito-apartments.json
 
 | column | Description |
 | --- | --- |
-|name|Заголовок объявления|
+|title|Заголовок объявления|
 |currency|Валюта в которой указана цена|
 |price|Цена квартиры|
 |apartment|Краткое описание квартиры|
@@ -23,8 +23,3 @@ File: dataset-avito-apartments.json
 |description|Описание|
 |metro|Ближайшее метро|
 |distance_to_metro|Расстояние до метро|
-|seller_name|Имя продавца (или агенства)|
-|seller_pub|Количество публикаций продавца|
-|advert|Признак рекламного баннера|
-
-items-^name^.json - файлы с разбивкой данных по 1,2,3...-комнатным квартирам
